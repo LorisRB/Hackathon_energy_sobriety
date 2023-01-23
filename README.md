@@ -1,5 +1,4 @@
-*GROUP NAME*\
-Team 8
+
 
 **HI!CKATHON 2023**
 
@@ -27,12 +26,12 @@ The result will look like an explainable model that allows us to determine the m
 ## 3.	Presentation of the group
 	Include your specialization at school, etc.
 
-| First name | Last name | Year of studies & Profile | School   | Skills   | Roles/Tasks    | Observations |
-| ---------- | --------- | ------------------------- | ---------| ------   | -----------    | ------------ |
-| Loris      | Bulliard  | BAC+5 /                   | ENSAE    | Python   | Data Scientist | Top Performer       |
-| Eva        | Clergue   | BAC+5 /                   | IP Paris | Python   | Data Scientist | Top Performer       |
-| Camille    | Langlois  | BAC+5 /                   | ENSAE    | Python   | Data Scientist | Top Performer       |
-| Sophie     | Normand   | BAC+5 /                   | IP Paris | Py+Video | Data + Video   | Top Performer       |
+| First name | Last name | Year of studies & Profile | School   | Skills   | Roles/Tasks    | 
+| ---------- | --------- | ------------------------- | ---------| ------   | -----------    | 
+| Loris      | Bulliard  | BAC+5 /                   | ENSAE    | Python   | Data Scientist | 
+| Eva        | Clergue   | BAC+5 /                   | IP Paris | Python   | Data Scientist | 
+| Camille    | Langlois  | BAC+5 /                   | ENSAE    | Python   | Data Scientist | 
+| Sophie     | Normand   | BAC+5 /                   | IP Paris | Py+Video | Data + Video   | 
 | Jorge      | Ramirez   | BAC+5 /                   | HEC Paris| Business | Pitch          |
 
 
